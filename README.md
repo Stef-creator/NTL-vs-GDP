@@ -51,4 +51,5 @@ MIT License
 
 *Author: Stefan Pilegaard Pedersen*  
 *Location: Copenhagen, Denmark*  
-*Contact: [LinkedIn](www.linkedin.com/in/stefan-pedersen-25a73583)*
+*Contact: [LinkedIn](https://www.linkedin.com/in/stefan-pedersen-25a73583)
+
