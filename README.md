@@ -10,7 +10,7 @@ To assess whether China's officially reported GDP data became more aligned with 
 
 - **Data Sources**:
   - **World Bank** GDP data (1992–2021)
-  - **NOAA Nighttime Light Data** (via preprocessed CSVs)
+  - **NOAA Nighttime Light Data** (via predownloaded CSVs)
   
 - **Analysis**:
   - Clean and merge NTL and GDP data
