@@ -2,11 +2,11 @@
 
 This repository investigates the credibility of reported Chinese GDP data using satellite-recorded nighttime light intensity as a proxy for economic activity. The project builds on the hypothesis that institutional reforms under Xi Jinping—specifically the transition to “Top-Level Design” governance—have improved the alignment between observed economic indicators and reported GDP figures.
 
-## 📌 Objective
+## Objective
 
 To assess whether China's officially reported GDP data became more aligned with nighttime light data following institutional reforms implemented around the Third Plenary Session of the 18th CPC Central Committee in 2013.
 
-## 📊 Methodology
+## Methodology
 
 - **Data Sources**:
   - **World Bank** GDP data (1992–2021)
@@ -22,28 +22,28 @@ To assess whether China's officially reported GDP data became more aligned with 
   - Measurement error model linking true and reported GDP to satellite light
   - Elasticity regression between log(NTL) and log(GDP)
 
-## 📈 Results
+## Results
 
 - Preliminary OLS results show a strong relationship between NTL and GDP
 - Robust standard errors (HC1) used for inference  
 
-## 📚 Citations
+## Citations
 
 Citations are managed using a `.bib` file. See `references.bib` for the full list.
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.9+
 - `pandas`, `numpy`, `matplotlib`, `statsmodels`, `scipy`
 - Optional: `jupyter`, for citation rendering
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook: `jupyter notebook notebook/ntl_gdp_analysis.ipynb`
 
-## 📜 License
+## License
 
 MIT License
 
