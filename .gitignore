@@ -3,3 +3,6 @@ __pycache__/
 .env
 *.ipynb_checkpoints/
 
+.venv/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
