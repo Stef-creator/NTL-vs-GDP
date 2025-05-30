@@ -41,7 +41,7 @@ Citations are managed using a `.bib` file. See `references.bib` for the full lis
 
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook: `jupyter notebook notebook/ntl_gdp_analysis.ipynb`
+3. Run the notebook: `jupyter notebook NTL vs GDP: Measuring Institutional Change in Xi Era China.ipynb`
 
 ## License
 
